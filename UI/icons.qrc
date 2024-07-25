@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="images">
+    <file>export_icon.png</file>
+    <file>drop_down-black.png</file>
+    <file>open.png</file>
+    <file>open_file.png</file>
+    <file>arrow.png</file>
+  </qresource>
+</RCC>
