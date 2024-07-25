@@ -197,7 +197,45 @@ Performs face detection on an input image using Haar cascades. It identifies bot
 ### Face Recognition
 ![alt text](assets/image-19.png)
 
-**Dataset**  
 The dataset consists of 400 grayscale images of 40 subjects, with each subject having 10 images. It is split into 80% for training and 20% for testing. The face recognition system achieved an accuracy of 86.25%.
 
 Using *PCA* (implemented from scratch) to find the eigenfaces to reduce dimensionality and *KNN* Classifier for subject identification.
+
+
+## Contributors
+
+<table>
+  <tr>
+    <td align="center">
+    <a href="https://github.com/Ayamachii" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/96113496?s=400&v=4" width="150px;" alt="Aya Eyad"/>
+    <br />
+    <sub><b>Aya Eyad</b></sub></a>
+    <td align="center">
+    <a href="https://github.com/hagersamir" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/105936147?v=4" width="150px;" alt="Hagar Samir"/>
+    <br />
+    <sub><b>Hagar Samir</b></sub></a>
+    </td>
+    </td>
+    <td align="center">
+    <a href="https://github.com/Sarah2332" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/103162590?v=4" width="150px;" alt="Sara Ragaei"/>
+    <br />
+    <sub><b>Sara Ragaei</b></sub></a>
+    </td>
+    <td align="center">
+   <td align="">
+    <a href="https://github.com/Salma-me" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/114951438?v=4" width="150px;" alt="Salma Ashraf"/>
+    <br />
+    <sub><b>Salma Ashraf</b></sub></a>
+    </td>
+    <td align="center">
+    <a href="https://github.com/HabibaSroor" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/93604097?v=4" width="150px;" alt="Luna Eyad"/>
+    <br />
+    <sub><b>Habiba Salama</b></sub></a>
+    </td>
+    </tr>
+ </table>
